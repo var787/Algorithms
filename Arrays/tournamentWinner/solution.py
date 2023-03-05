@@ -2,6 +2,7 @@
 HOME_TEAM_WON = 1
 
 
+# O(n) time | O(k) space
 def tournamentWinner(competions, results):
     # initialize the beast team as an empty string
     bestTeam = ""
